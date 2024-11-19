@@ -1,0 +1,84 @@
+.container{
+    width: 90%;
+    height: 2000px;
+    background-color: black;
+    margin: auto;
+}
+.header{
+    width: 100%;
+    height: 200px;
+    background-color: white;
+}
+.conten{
+    width: 100%;
+    height: 1200px;
+    background-color: white;
+}
+.footer{
+    width: 100%;
+    height: 800px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    margin-right: auto;
+}
+.menu{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    margin-right: auto;
+}
+.m{
+    width: 20%;
+    height: 100px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    margin-right: auto;
+}
+.m:hover{
+    background-color: yellow;
+    text-align: center;
+    font-size: 20pt;
+}
+p{
+    
+    margin: auto;
+}
+img{
+    width: 100%;
+    height: 1200px;
+}
+.contak{
+    width: 30%;
+    height: 600px;
+/*    background-color: darkgray; */
+  
+   
+}
+.kata{
+    width: 70%;
+    height: 600px;
+/*    background-color: darkolivegreen;*/
+}
+.facebok{
+    width: 30%;
+    height: 50px;
+}
+.twiter{
+    width: 30%;
+    height: 50px;
+}
+.bag{
+    width: 100%;
+    height: 250px;
+/*    background-color: skyblue;*/
+}
+
+
+
+
+
+

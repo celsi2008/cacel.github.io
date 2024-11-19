@@ -1,0 +1,147 @@
+
+.container{
+    width: 80%;
+    height: 1000px;
+    background-color: white;
+    margin: auto;
+     padding-top: 100px;
+     border-radius: 20px;
+}
+.header{
+    width: 100%;
+    height: 300px;
+    background-color: white;
+}
+.content{
+    width: 100%;
+    height: 600px;
+    background-color: white;
+    display: block;
+    align-items: center;
+}
+.footer{
+     width: 100%;
+    height: 100px;
+    background-color: white;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+    font-style: oblique;
+}
+.judul{
+    width: 100%;
+    height: 100px;
+    background-color: cornsilk;
+}
+.kata{
+    width: 100%;
+    height: 200px;
+    background-color: white;
+    display: flex;
+}
+.ank{
+    width: 50%;
+    height: 200px;
+    background-color: white;
+}
+.kk{
+     width: 50%;
+    height: 200px;
+    background-color:white;
+}
+h4{
+    text-align: center;
+    font-size: 30px;
+}
+.bab{
+    text-align: center;
+    color: darkblue;
+     font-size: 20px;
+}
+.k{
+    text-align: center;
+    color:black;
+     font-size: 20px;
+}
+.k:hover{
+    color: red;
+}
+h3{
+    text-align: center;
+    color: darkred;
+    font-size: 20px;
+}
+.menu{
+    width: 100%;
+    height: 100px;
+    background-color: cornsilk;
+    display: flex;
+}
+.isi{
+    width: 100%;
+    height: 600px;
+    background-color: white;
+    display: flex;
+}
+   
+.anak{
+    width: 20%;
+    height: 100px;
+    background-color: white;
+}
+.anak:hover{
+    background-color:wheat;
+    border-radius: 20px;
+}
+
+.info{
+    width: 50%;
+    height: 500px;
+    background-color: darkolivegreen;
+    display: block;
+}
+.inf{
+    width: 50%;
+    height: 500px;
+    background-color: white;
+    display: flex;
+}
+.ga{
+    width: 100%;
+    height: 500px;
+    background-color:black;
+}
+.yoo{
+    width: 100%;
+    height: 500px;
+}
+.ba{
+  right: 20px;
+    margin-right: 20px;
+}
+.tbl{
+    width: 20%;
+    height: 50px;
+    background-color: navajowhite;
+    border-radius: 20px;
+    margin: auto;
+}
+.aa{
+    color: black;
+   text-align: center;
+    font-size: 20px;
+}
+.tbl:hover{
+    background-color: chocolate;
+    border-radius: 20px;
+}
+.aa:hover{
+    color: red;
+}
+.gaaa{
+    width: 100%;
+    height: 500px;
+    background-color:wheat;
+}

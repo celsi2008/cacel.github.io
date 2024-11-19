@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+}
+
+.menu{
+    width: 100%;
+    height: 100px;
+    background-color: #4d9eef;
+    margin: auto;
+    z-index: 1;
+    position: fixed;
+}
+.container{
+    width: 100%;
+/*    height: 1000px;*/
+    background-color: brown;
+    margin: auto;
+    padding-top: 100px;
+}
+.isi{
+    width: 100%;
+    height: 500px;
+    background-color: gray;
+    display: flex;
+}
+.teks{
+    width: 50%;
+    height: 500px;
+    background-color: #4d9eef;
+}
+.gbra{
+    width: 50%;
+    height: 500px;
+    background-color: #4d9eef;
+}
+.gbu{
+    height: 100%;
+}
+.ibu{
+    width: 60%;
+    height: 100px;
+    display: flex;
+    margin-left: 350px;
+}
+.anak{
+    width: 100px;
+    height: 100px;
+    padding-top: 10px;
+    padding-left: 10px;  
+}
+p{
+    color: white;
+    text-align: center;
+}
+.anak:hover{
+    background-color: black;
+}
+.bingkai-teks{
+    width: 80%;
+    height: 400px;
+/*    background-color: darkolivegreen;*/
+    margin: auto;
+    justify-content: center;
+}
+.tbl-me{
+    width: 150px;
+    height: 50px;
+    background-color: darkblue;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 20px;
+}
+.hah{
+    color: black;
+    padding-top: 20px;
+}
+#huh{
+    color: yellow;
+    padding-top: 15px;
+}
+h1{
+    text-align: center;
+}
+#huh:hover{
+ color:  black;
+   
+}
+.tbl-me:hover{
+    background-color: white;
+}
+.content{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    display: flex;
+}
+.isii{
+    width: 80%;
+    height: 500px;
+    background-color: aqua;
+}
+.side-menu{
+    width: 20%;
+    height: 500px;
+    background-color: fuchsia;
+}
+li:hover{
+    background-color: yellow;
+    width: 70px;
+}
+#tulisan{
+color: black;
+text-align: justify;
+    padding: 10px;
+}

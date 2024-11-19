@@ -1,0 +1,69 @@
+.card{
+    width: 200px;
+    height: 500px;
+/*    background-color: blue;*/
+     padding-top: 20px;
+}
+.card:hover{
+     background-color: blue;
+}
+.card-gbr{
+    width: 180px;
+    height: 300px;
+    background-color: white;
+    margin: auto;
+}
+img{
+    width: 100%;
+    height: 300px;
+}
+.card-info{
+    width: 180px;
+    height: 120px;
+    background-color: darkgray;
+    margin: auto;
+}
+.card-tbl{
+    width: 50px;
+    height: 40px;
+    background-color: red;
+    margin: auto;
+    border-radius: 10px;
+}
+h3{
+    text-align: center;
+    color: black;
+}
+p{
+    text-align: center;
+    color: black;
+}
+#beli{
+    color: yellow;
+    padding-top: 8px;
+}
+.card-info:hover{
+    background-color: skyblue;
+}
+#beli:hover{
+    color: green;
+   
+}
+h3:hover{
+    color: white;
+}
+p{
+    color: white;
+}
+.card-tbl:hover{
+    background-color: darkgray;
+}
+.bungkus{
+    width: 90%;
+    height: 500px;
+/*    background-color: darkkhaki;*/
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+    
+}

@@ -1,0 +1,94 @@
+.container{
+    width: 90%;
+    height: 6000px;
+/*    background-color: aqua;*/
+    margin: auto;
+}
+.header{
+    width: 100%;
+    height: 150px;
+    background-color: brown;
+    text-align: center;
+}
+.content{
+    width: 100%;
+    height: 5700px;
+    background-color: greenyellow;
+    display: flex;
+    align-items: center;
+}
+.footer{
+    width: 100%;
+        height: 150px;
+    background-color: black;
+}
+.video{
+    width: 70%;
+    height: 5700px;
+    background-color: red;
+}
+.sidebar{
+    width: 30%;
+    height: 5700px;
+    background-color: gray;
+}
+.sidemenu{
+    width: 80%;
+    height: 200px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.gbr{
+    width: 50%;
+    height: 100px;
+    background-color: black;
+    margin: auto;
+}
+.teks{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+img{
+    width: 100%;
+    height: 100px;
+}
+.hgr:hover{
+    background-color: pink;
+    text-decoration:underline;
+}
+.sidemenu:hover{
+    background-color: yellow;
+}
+h1:hover{
+    color: aqua;
+    text-align: center;
+    font-size: 50pt;
+}
+.vid-ikln{
+    width: 50%;
+    height: 650px;
+    background-color: aliceblue;
+    margin: auto;
+    margin-top: 50px;
+}
+iframe{
+    width: 100%;
+    height: 400px;
+}
+p{
+    text-align: center;
+}
+.tombol{
+    width: 30%;
+    height: 100px;
+    background-color: blue;
+    margin: auto;
+}
+.tbl{
+    color: white;
+}
+.tombol:hover{
+    background-color: aqua;
+}
